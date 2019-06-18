@@ -1,0 +1,11 @@
+C:\Users\yakup_dikmen\source\repos\YSA\YSA\bin\Debug\netcoreapp2.1\YSA.deps.json
+C:\Users\yakup_dikmen\source\repos\YSA\YSA\bin\Debug\netcoreapp2.1\YSA.runtimeconfig.json
+C:\Users\yakup_dikmen\source\repos\YSA\YSA\bin\Debug\netcoreapp2.1\YSA.runtimeconfig.dev.json
+C:\Users\yakup_dikmen\source\repos\YSA\YSA\bin\Debug\netcoreapp2.1\YSA.dll
+C:\Users\yakup_dikmen\source\repos\YSA\YSA\bin\Debug\netcoreapp2.1\YSA.pdb
+C:\Users\yakup_dikmen\source\repos\YSA\YSA\obj\Debug\netcoreapp2.1\YSA.csprojAssemblyReference.cache
+C:\Users\yakup_dikmen\source\repos\YSA\YSA\obj\Debug\netcoreapp2.1\YSA.csproj.CoreCompileInputs.cache
+C:\Users\yakup_dikmen\source\repos\YSA\YSA\obj\Debug\netcoreapp2.1\YSA.AssemblyInfoInputs.cache
+C:\Users\yakup_dikmen\source\repos\YSA\YSA\obj\Debug\netcoreapp2.1\YSA.AssemblyInfo.cs
+C:\Users\yakup_dikmen\source\repos\YSA\YSA\obj\Debug\netcoreapp2.1\YSA.dll
+C:\Users\yakup_dikmen\source\repos\YSA\YSA\obj\Debug\netcoreapp2.1\YSA.pdb
